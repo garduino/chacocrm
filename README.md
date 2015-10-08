@@ -1,2 +1,2 @@
-# fukangcrm
-FukangCRM is a customer relationship management for real estate companies.
+# chacocrm
+ChacoCRM is a customer relationship management for real estate companies.
